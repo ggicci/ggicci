@@ -13,5 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![cover](./assets/cover.jpg)
+![cover](https://github.com/ggicci/ggicci/raw/master/assets/cover.jpg)
+
 
