@@ -13,6 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![cover](https://github.com/ggicci/ggicci/raw/master/assets/cover.jpg)
+<style>
+  #ggicci-cover {
+    width: 854px;
+    height: 340px;
+    background-image: url("https://github.com/ggicci/ggicci/raw/master/assets/cover.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+</style>
 
-
+<div id="ggicci-cover"></div>
