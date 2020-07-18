@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div id="ggicci-cover" style="height: 340px; background: url("https://github.com/ggicci/ggicci/raw/master/assets/cover.jpg") center no-repeat cover;"></div>
+<div id="ggicci-cover" style="height: 340px; background: url('https://github.com/ggicci/ggicci/raw/master/assets/cover.jpg') center no-repeat cover;"></div>
