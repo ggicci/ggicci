@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![cover](assets/cover.jpg)
+![cover](./assets/cover.jpg)
 
