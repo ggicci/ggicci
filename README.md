@@ -17,12 +17,12 @@ Here are some ideas to get you started:
     <tr>
       <td>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api?username=ggicci&show_icons=true&hide_title=true&count_private=true&hide_border" />
+          <img src="https://github-readme-stats.vercel.app/api?username=ggicci&show_icons=true&hide_title=true&count_private=true" />
         </a>
       </td>
       <td>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ggicci&layout=compact&hide_border" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ggicci&layout=compact" />
         </a>
       </td>
     </tr>
