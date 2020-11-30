@@ -12,18 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <table>
   <tbody>
     <tr>
       <td>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api?username=ggicci&show_icons=true&hide_title=true&count_private=true" />
+          <img src="https://github-readme-stats.vercel.app/api?username=ggicci&show_icons=true&hide_title=true&count_private=true&hide_border" />
         </a>
       </td>
       <td>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ggicci&layout=compact" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ggicci&layout=compact&hide_border" />
         </a>
       </td>
     </tr>
