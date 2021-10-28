@@ -17,7 +17,7 @@ Hi, there~ 👋 Welcome to my GitHub homepage!
 
 I'm **Ggicci** /ˈdʒiːtʃi/, an **OSS lover** and contributor. I love to share knowledge with the community and do hope my work could help 🌳
 
-## Projects
+## My Projects
 
 | Project                                                                                                |  Language  | Description                                                                                                                                         |
 | ------------------------------------------------------------------------------------------------------ | :--------: | --------------------------------------------------------------------------------------------------------------------------------------------------- |
