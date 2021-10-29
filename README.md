@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 Hi, there~ 👋 Welcome to my GitHub homepage!
 
-I'm **Ggicci** /ˈdʒiːtʃi/, an **OSS lover** and contributor. I love to share knowledge with the community and do hope my work could help 🌳
+I'm **Ggicci** /ˈdʒiːtʃi/, an **OSS lover** and contributor. I do hope my work could help :)
 
 ## My Projects
 
@@ -33,7 +33,7 @@ I'm **Ggicci** /ˈdʒiːtʃi/, an **OSS lover** and contributor. I love to share
 | [color](https://github.com/ggicci/color) [⏳](https://github.com/ggicci "WIP")                         |     Go     | Manipulate color values in Go                                                                                                                       |
 | [go-strip-comments](https://github.com/ggicci/go-strip-comments) [⏳](https://github.com/ggicci "WIP") |     Go     | Strip comments from text in Go                                                                                                                      |
 
-## Sponsor Me 💙
+## Support Me 💙
 
 <a href="https://www.buymeacoffee.com/ggicci"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=ggicci&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
 
