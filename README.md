@@ -36,22 +36,3 @@ I'm **Ggicci** /ˈdʒiːtʃi/, an **OSS lover** and contributor. I do hope my wo
 ## Support Me 💙
 
 <a href="https://www.buymeacoffee.com/ggicci"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=ggicci&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
-
-<--
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api?username=ggicci&show_icons=true&hide_title=true&count_private=true" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ggicci&layout=compact&theme=graywhite" />
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
--->
