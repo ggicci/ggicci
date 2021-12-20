@@ -35,6 +35,6 @@ I'm **Ggicci** /ˈdʒiːtʃi/, an **OSS lover** and contributor. I do hope my wo
 
 ## Support Me 💙
 
-<a href="https://www.buymeacoffee.com/ggicci"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=ggicci&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" height="60px"></a> <a href="https://touwei.me/ggicci"><img src="https://api.touwei.me/fs/tw-buttons/0c6f6b49-8414-4c06-b02a-9fb749190e52" height="60px"></a>
+<a href="https://www.buymeacoffee.com/ggicci"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=ggicci&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" height="40px"></a> <a href="https://touwei.me/ggicci"><img src="https://api.touwei.me/fs/tw-buttons/0c6f6b49-8414-4c06-b02a-9fb749190e52" height="40px"></a>
 
 
