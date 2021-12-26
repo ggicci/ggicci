@@ -1,6 +1,7 @@
 Hi, there~ 👋 Welcome to my GitHub homepage!
 
-I'm **Ggicci** /ˈdʒiːtʃi/, an **OSS lover** and contributor. I do hope my work could help :)
+I'm **Ggicci** /ˈdʒiːtʃi/, an **OSS lover** and contributor.
+I do hope my work could help :)
 
 ## My Open Source Projects
 
