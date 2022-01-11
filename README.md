@@ -32,12 +32,19 @@ I do hope my work could help :)
 <table>
 <tbody>
   <tr>
-    <td width="50%">
+    <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=ggicci&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+        <img src="https://github-readme-stats.vercel.app/api?username=ggicci&count_private=true&hide_title=true&hide_border=true" style="width: 100%" />
       </a>
     </td>
-    <td width="50%">
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ggicci&layout=compact&hide_border=true" style="width: 100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
       <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
         <img src="https://activity-graph.herokuapp.com/graph?username=ggicci&bg_color=ffffff0a&color=3080ed&line=5094f0&point=4d72f2&hide_border=true" />
       </a>
