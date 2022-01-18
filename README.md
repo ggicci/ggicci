@@ -19,12 +19,12 @@ I do hope my work could help :)
 | [color](https://github.com/ggicci/color) [⏳](https://github.com/ggicci "WIP")                         |     Go     | Manipulate color values in Go                                                                                                                       |
 | [go-strip-comments](https://github.com/ggicci/go-strip-comments) [⏳](https://github.com/ggicci "WIP") |     Go     | Strip comments from text in Go                                                                                                                      |
 
+## My Toy Projects
 
-## My Private Buildings
+| App                            | Description              | Stack                                                    |
+| ------------------------------ | ------------------------ | -------------------------------------------------------- |
+| [touwei.me](https://touwei.me) | Replicated buymeacoffee. | [NextJS, Go, ...](https://stackshare.io/ggicci/touweime) |
 
-| App                            | Desc.                                | Stack                                                    |
-| ------------------------------ | ------------------------------------ | -------------------------------------------------------- |
-| [touwei.me](https://touwei.me) | Toy project, replicated buymeacoffee | [NextJS, Go, ...](https://stackshare.io/ggicci/touweime) |
 
 ## Support Me 💙
 
