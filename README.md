@@ -9,8 +9,8 @@ I do hope my work could help :)
 | ------------------------------------------------------------------------------------------------------ | :--------: | --------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [httpin](https://github.com/ggicci/httpin) ⭐                                                          |     Go     | Decode an HTTP request into a custom struct in Go                                                                                                   |
 | [caddy-jwt](https://github.com/ggicci/caddy-jwt) ⭐                                                    |     Go     | Caddy Module for JWT Authentication                                                                                                                 |
-| [distlock](https://github.com/ggicci/distlock)                                                      |     Go     | Distributed Lock implementation backed on Redis, MySQL, PostgreSQL, ... etc                                                                         |
-| [image-decrypter](https://github.com/ggicci/image-decrypter)                                           | TypeScript | Decrypt images in the browser                                                                                                                       |
+| [distlock](https://github.com/ggicci/distlock)                                                         |     Go     | Distributed Lock implementation backed on Redis, MySQL, PostgreSQL, etc.                                                                            |
+| [image-decrypter](https://github.com/ggicci/image-decrypter)                                           | TypeScript | Decrypt images in the browser (client side)                                                                                                         |
 | [droplet.sh](https://github.com/ggicci/droplet.sh)                                                     |    Bash    | Import shell scripts like Go                                                                                                                        |
 | [python-fossil-delta](https://github.com/ggicci/python-fossil-delta)                                   |   Python   | Python wrapper of the C implementation of [Fossil Delta Encoding Algorithm](https://fossil-scm.org/home/doc/trunk/www/delta_encoder_algorithm.wiki) |
 | [jsonla](https://github.com/ggicci/jsonla)                                                             |    C++     | Parse and manipulate JSON data structure                                                                                                            |
@@ -18,6 +18,7 @@ I do hope my work could help :)
 | [dingtalk](https://github.com/ggicci/dingtalk)                                                         |     Go     | Dingtalk (钉钉) Robot SDK                                                                                                                           |
 | [color](https://github.com/ggicci/color) [⏳](https://github.com/ggicci "WIP")                         |     Go     | Manipulate color values in Go                                                                                                                       |
 | [go-strip-comments](https://github.com/ggicci/go-strip-comments) [⏳](https://github.com/ggicci "WIP") |     Go     | Strip comments from text in Go                                                                                                                      |
+
 
 ## My Private Buildings
 
