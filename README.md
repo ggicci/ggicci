@@ -9,6 +9,7 @@ I do hope my work could help :)
 | ------------------------------------------------------------------------------------------------------ | :--------: | --------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [httpin](https://github.com/ggicci/httpin) ⭐                                                          |     Go     | Decode an HTTP request into a custom struct in Go                                                                                                   |
 | [caddy-jwt](https://github.com/ggicci/caddy-jwt) ⭐                                                    |     Go     | Caddy Module for JWT Authentication                                                                                                                 |
+| [jsonrpc2-ws](https://github.com/ggicci/jsonrcp2-ws)                                                   |     Go     | JSON-RPC 2.0 over WebSocket for Go                                                                                                                  |
 | [distlock](https://github.com/ggicci/distlock)                                                         |     Go     | Distributed Lock implementation backed on Redis, MySQL, PostgreSQL, etc.                                                                            |
 | [image-decrypter](https://github.com/ggicci/image-decrypter)                                           | TypeScript | Decrypt images in the browser (client side)                                                                                                         |
 | [droplet.sh](https://github.com/ggicci/droplet.sh)                                                     |    Bash    | Import shell scripts like Go                                                                                                                        |
@@ -24,7 +25,6 @@ I do hope my work could help :)
 | App                            | Description              | Stack                                                    |
 | ------------------------------ | ------------------------ | -------------------------------------------------------- |
 | [touwei.me](https://touwei.me) | Replicated buymeacoffee. | [NextJS, Go, ...](https://stackshare.io/ggicci/touweime) |
-
 
 ## Support Me 💙
 
