@@ -27,7 +27,7 @@ I do hope my work could help :)
 
 ## Support Me 💙
 
-<a href="https://www.patreon.com/bePatron?u=68561580"><img src="./assets/become-a-patron.png" /></a>
+<a href="https://www.patreon.com/bePatron?u=68561580"><img src="./assets/become-a-patron.png" height="32px" /></a>
 
 
 <table>
