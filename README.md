@@ -1,3 +1,9 @@
+![no war](assets/nowar.jpg)
+
+> Peace is the virtue of civilization. War is its crime.  ― Victor Hugo
+
+***
+
 Hi, there~ 👋 Welcome to my GitHub homepage!
 
 I'm **Ggicci** /ˈdʒiːtʃi/, an **OSS lover** and contributor.
