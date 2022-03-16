@@ -17,12 +17,6 @@ I do hope my work could help :)
 | [jupyter](https://github.com/ggicci/jupyter)                         |   Docker   | JupyterLab docker image with py2.7, py3.9 kernels                                                                                                   |
 | [dingtalk](https://github.com/ggicci/dingtalk)                       |     Go     | Dingtalk (钉钉) Robot SDK                                                                                                                           |
 
-## My Toy Projects
-
-| App                            | Description              | Stack                                                    |
-| ------------------------------ | ------------------------ | -------------------------------------------------------- |
-| [touwei.me](https://touwei.me) | Replicated buymeacoffee. | [NextJS, Go, ...](https://stackshare.io/ggicci/touweime) |
-
 ## Support Me 💙
 
 <a href="https://www.patreon.com/bePatron?u=68561580"><img src="./assets/become-a-patron.png" height="32px" /></a>
