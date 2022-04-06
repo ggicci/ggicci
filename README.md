@@ -3,7 +3,6 @@ Hi, there~ 👋 Welcome to my GitHub homepage!
 I'm **Ggicci** /ˈdʒiːtʃi/, an **OSS lover** and contributor.
 I do hope my work could help :)
 
-**I'm currently living in Shanghai and now open to new opportunities. I prefer overseas jobs and hope my employer can provide visa support.** Please feel free to contact me at [LinkedIn](https://www.linkedin.com/in/ggicci).
 
 ## My Open Source Projects
 
