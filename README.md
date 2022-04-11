@@ -3,7 +3,6 @@ Hi, there~ 👋 Welcome to my GitHub homepage!
 I'm **Ggicci** /ˈdʒiːtʃi/, an **OSS lover** and contributor.
 I do hope my work could help :)
 
-
 ## My Open Source Projects
 
 | Project                                                              |  Language  | Description                                                                                                                                         |
@@ -12,6 +11,7 @@ I do hope my work could help :)
 | [caddy-jwt](https://github.com/ggicci/caddy-jwt) ⭐                  |     Go     | Caddy Module for JWT Authentication                                                                                                                 |
 | [distlock](https://github.com/ggicci/distlock)                       |     Go     | Simple distributed locks using Redis, MySQL, PostgreSQL, etc.                                                                                       |
 | [image-decrypter](https://github.com/ggicci/image-decrypter)         | TypeScript | Decrypt images in the browser (client side)                                                                                                         |
+| [v2raym](https://github.com/ggicci/v2raym)                           |    Bash    | Dead simple v2ray client for macOS (in terminal)                                                                                                    |
 | [droplet.sh](https://github.com/ggicci/droplet.sh)                   |    Bash    | Import shell scripts like Go                                                                                                                        |
 | [python-fossil-delta](https://github.com/ggicci/python-fossil-delta) |   Python   | Python wrapper of the C implementation of [Fossil Delta Encoding Algorithm](https://fossil-scm.org/home/doc/trunk/www/delta_encoder_algorithm.wiki) |
 | [jsonla](https://github.com/ggicci/jsonla)                           |    C++     | Parse and manipulate JSON data structure                                                                                                            |
@@ -21,7 +21,6 @@ I do hope my work could help :)
 ## Support Me 💙
 
 <a href="https://www.patreon.com/bePatron?u=68561580"><img src="./assets/become-a-patron.png" height="32px" /></a>
-
 
 <table>
 <tbody>
