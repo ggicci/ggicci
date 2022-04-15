@@ -9,7 +9,7 @@ I do hope my work could help :)
 2. remote jobs that can collaborate globally (I believe I can adapt quickly though I have no such experience)
 3. Back End (proficient), Full Stack (balance), Front End (familiar)
 
-My resume: ggicci.me/resume
+My resume: [ggicci.me/resume](https://ggicci.me/resume)
 
 
 ## My Open Source Projects
