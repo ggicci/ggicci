@@ -3,6 +3,15 @@ Hi, there~ 👋 Welcome to my GitHub homepage!
 I'm **Ggicci** /ˈdʒiːtʃi/, an **OSS lover** and contributor.
 I do hope my work could help :)
 
+**I'm currently living in Shanghai and now open to new opportunities. Please feel free to contact me at [LinkedIn](https://www.linkedin.com/in/ggicci).** I have the following preferences:
+
+1. overseas jobs and hope my employer can provide visa support
+2. remote jobs that can collaborate globally (I believe I can adapt quickly though I have no such experience)
+3. Back End (proficient), Full Stack (balance), Front End (familiar)
+
+My resume: ggicci.me/resume
+
+
 ## My Open Source Projects
 
 | Project                                                              |  Language  | Description                                                                                                                                         |
