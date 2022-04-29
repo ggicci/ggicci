@@ -29,10 +29,6 @@ My resume: [ggicci.me/resume](https://ggicci.me/resume)
 | [jupyter](https://github.com/ggicci/jupyter)                         |   Docker   | JupyterLab docker image with py2.7, py3.9 kernels                                                                                                   |
 | [dingtalk](https://github.com/ggicci/dingtalk)                       |     Go     | Dingtalk (钉钉) Robot SDK                                                                                                                           |
 
-## Support Me 💙
-
-<a href="https://www.patreon.com/bePatron?u=68561580"><img src="./assets/become-a-patron.png" height="32px" /></a>
-
 <table>
 <tbody>
   <tr>
@@ -44,13 +40,6 @@ My resume: [ggicci.me/resume](https://ggicci.me/resume)
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ggicci&layout=compact&hide_border=true" style="width: 100%" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img src="https://activity-graph.herokuapp.com/graph?username=ggicci&bg_color=ffffff0a&color=3080ed&line=5094f0&point=4d72f2&hide_border=true" />
       </a>
     </td>
   </tr>
