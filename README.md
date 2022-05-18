@@ -17,7 +17,7 @@ I'm **Ggicci** /ˈdʒiːtʃi/. Bye bye~
 | [jupyter](https://github.com/ggicci/jupyter)                         |   Docker   | JupyterLab docker image with py2.7, py3.9 kernels                                                                                                   |
 | [dingtalk](https://github.com/ggicci/dingtalk)                       |     Go     | Dingtalk (钉钉) Robot SDK                                                                                                                           |
 
-<table>
+<!-- <table>
 <tbody>
   <tr>
     <td>
@@ -33,3 +33,4 @@ I'm **Ggicci** /ˈdʒiːtʃi/. Bye bye~
   </tr>
 </tbody>
 </table>
+ -->
