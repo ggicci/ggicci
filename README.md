@@ -1,7 +1,8 @@
+**LINKS**
 
 [BLOG](https://ggicci.me/about) • [INSTAGRAM](https://www.instagram.com/ggicci)
 
-**Projects**
+**PROJECTS**
 
 - ⭐ [httpin](https://github.com/ggicci/httpin): Go - Decode an HTTP request into a custom struct ([docs](https://ggicci.github.io/httpin/))
 - [caddy-jwt](https://github.com/ggicci/caddy-jwt): Go -Caddy Module for JWT Authentication ([docs](https://caddyserver.com/docs/modules/http.authentication.providers.jwt))
