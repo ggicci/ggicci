@@ -4,8 +4,8 @@
 
 **PROJECTS**
 
-- ⭐ [httpin](https://github.com/ggicci/httpin): Go - Decode an HTTP request into a custom struct ([docs](https://ggicci.github.io/httpin/))
-- [caddy-jwt](https://github.com/ggicci/caddy-jwt): Go -Caddy Module for JWT Authentication ([docs](https://caddyserver.com/docs/modules/http.authentication.providers.jwt))
+- ⭐ [httpin](https://github.com/ggicci/httpin): Go - Decode an HTTP request into a custom struct ([documentation](https://ggicci.github.io/httpin/))
+- [caddy-jwt](https://github.com/ggicci/caddy-jwt): Go -Caddy Module for JWT Authentication ([documentation](https://caddyserver.com/docs/modules/http.authentication.providers.jwt))
 - [distlock](https://github.com/ggicci/distlock): Go - Simple distributed locks using Redis, MySQL, PostgreSQL, etc.
 - [password](https://github.com/ggicci/password): Go - Password Hashing & Verification
 - [patch](https://github.com/ggicci/patch): Go - Tell if a field of a PATCH request payload is missiong or not
