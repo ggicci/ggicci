@@ -1,6 +1,9 @@
+<!--
 **LINKS**
 
 [BLOG](https://ggicci.me/about) • [INSTAGRAM](https://www.instagram.com/ggicci)
+
+-->
 
 **PROJECTS**
 
