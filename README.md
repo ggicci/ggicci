@@ -8,6 +8,7 @@
 **PROJECTS**
 
 - ⭐ [httpin](https://github.com/ggicci/httpin): Go - Decode an HTTP request into a custom struct ([documentation](https://ggicci.github.io/httpin/))
+    * I'm now working on adding the new encoding feature to this package, to make it able to encode a struct instance to an HTTP request
 - 🦉 [owl](https://github.com/ggicci/owl): Go - a Go Struct Tag Framework and Algorithm Driver
 - [caddy-jwt](https://github.com/ggicci/caddy-jwt): Go -Caddy Module for JWT Authentication ([documentation](https://caddyserver.com/docs/modules/http.authentication.providers.jwt))
 - [distlock](https://github.com/ggicci/distlock): Go - Simple distributed locks using Redis, MySQL, PostgreSQL, etc.
