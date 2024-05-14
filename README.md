@@ -22,6 +22,6 @@
 
 🙆🏻‍♂️ Spot me in Downtown Toronto Cafés and code with me! ☕️ Neo, Forget Me Not, Fika, Cafe23...
 
-**My Shit List**
+**MY SHIT LIST**
 
 - Java
