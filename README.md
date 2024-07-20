@@ -15,6 +15,7 @@
 
 - ⭐ [httpin](https://github.com/ggicci/httpin): Go - HTTP Request from/to Struct, i.e. Bi-directional Data Binding between Go Struct and http.Request ([documentation](https://ggicci.github.io/httpin/))
 - 🦉 [owl](https://github.com/ggicci/owl): Go - a Go Struct Tag Framework and Algorithm Driver
+- 🧣 [stringable](https://github.com/ggicci/stringable): Go - a tiny Go package that helps converting values from/to a string.
 - [caddy-jwt](https://github.com/ggicci/caddy-jwt): Go -Caddy Module for JWT Authentication ([documentation](https://caddyserver.com/docs/modules/http.authentication.providers.jwt))
 - [distlock](https://github.com/ggicci/distlock): Go - Simple distributed locks using Redis, MySQL, PostgreSQL, etc.
 - [password](https://github.com/ggicci/password): Go - Password Hashing & Verification
