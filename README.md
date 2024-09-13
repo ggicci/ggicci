@@ -5,12 +5,6 @@
 
 -->
 
-**AD**
-
-🔥 We're hiring! Message me for a referral :)
-
-* [Senior Software Development Engineer, AWS IAM](https://www.amazon.jobs/en/jobs/2651158/senior-software-development-engineer-aws-ia) 
-
 **PROJECTS**
 
 - ⭐ [httpin](https://github.com/ggicci/httpin): Go - HTTP Request from/to Struct, i.e. Bi-directional Data Binding between Go Struct and http.Request ([documentation](https://ggicci.github.io/httpin/))
@@ -25,3 +19,7 @@
 - [droplet.sh](https://github.com/ggicci/droplet.sh): Bash - Import shell scripts like Go
 - [python-fossil-delta](https://github.com/ggicci/python-fossil-delta): Python wrapper of the C implementation of [Fossil Delta Encoding Algorithm](https://fossil-scm.org/home/doc/trunk/www/delta_encoder_algorithm.wiki)
 - [jsonla](https://github.com/ggicci/jsonla): C++ - Parse and manipulate JSON data structure
+
+**OTHERS**
+
+I have biases, for example, I insist java is terrible.
