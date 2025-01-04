@@ -20,7 +20,3 @@
 - [droplet.sh](https://github.com/ggicci/droplet.sh): Bash - Import shell scripts like Go
 - [python-fossil-delta](https://github.com/ggicci/python-fossil-delta): Python wrapper of the C implementation of [Fossil Delta Encoding Algorithm](https://fossil-scm.org/home/doc/trunk/www/delta_encoder_algorithm.wiki)
 - [jsonla](https://github.com/ggicci/jsonla): C++ - Parse and manipulate JSON data structure
-
-**OTHERS**
-
-I have biases, for example, I insist java is terrible.
